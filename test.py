@@ -5,7 +5,7 @@ def addition(a, b):
     # On retourne le résultat de l'addition
     return a + b
 
-# On définit une fonction qui calcule le carré d'un nombre
+# On définit une foonction qui calcule le carré d'un nombre
 def carre(x):
     # On retourne le resultat de la multiplication du nombre par lui-meme
     return x * x
