@@ -1,6 +1,6 @@
 # Exemple de programme Python avec des commentaires basiques
 
-# On définit une fonction qui calcule la somme de deux nombres
+# On definit une fonction qui calcule la somme de deux nombres
 def addition(a, b):
     # On retourne le résultat de l'addition
     return a + b
