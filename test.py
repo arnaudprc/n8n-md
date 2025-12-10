@@ -1,4 +1,4 @@
-# Exemple de programme Python avec commentaires basiques
+# Exemple de programme Python avec des commentaires basiques
 
 # On définit une fonction qui calcule la somme de deux nombres
 def addition(a, b):
