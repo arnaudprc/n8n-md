@@ -2,7 +2,7 @@
 
 # On definit une fonction qui calcule la somme de deux nombres
 def addition(a, b):
-    # On retourne le resultat de l'addition
+    # On retourne le résultat de l'addition
     return a + b
 
 # On définit une fonction qui calcule le carré d'un nombre
