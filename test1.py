@@ -1,2 +1,2 @@
 # Exemple 1 : Afficher un message
-print("Hello, World!")
+print("Hello World!")

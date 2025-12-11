@@ -1,4 +1,4 @@
-# Exemple 2 : Calculer la somme de deux nombres
+# Exemple 2 : Calculer la somme de 2 nombres
 a = 5
 b = 7
 somme = a + b
